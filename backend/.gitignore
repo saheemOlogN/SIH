@@ -1,0 +1,8 @@
+.venv/
+venv/
+uploads/
+jobs/
+outputs/
+__pycache__/
+*.py[cod]
+.env
